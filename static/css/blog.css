@@ -1,0 +1,60 @@
+.nav a {
+color: #5a5a5a;
+font-size: 11px;
+font-weight: bold;
+padding: 14px 10px;
+text-transform: uppercase;
+}
+
+.jumbotron {
+background-image:url('http://s49.radikal.ru/i126/1208/63/f483fad0d58e.jpg');
+height: 400px;
+background-size:100%;
+}
+
+.jumbotron h1 {
+color: #fff;
+font-size: 48px; 
+font-family: 'Nunito';
+float:right;
+}
+
+.jumbotron p {
+font-size: 20px;
+color: #fff;
+float:right;
+margin-left:300px;
+margin-bottom:40px;
+
+}
+
+.learn-more {
+background-color: #f7f7f7;
+margin-right:-20px;
+
+}
+
+.learn-more h3 {
+font-family: 'Nunito', sans-serif;
+font-size: 18px;
+font-weight: bold;
+}
+
+.learn-more a {
+color: #00b0ff;
+}
+.nav li{
+    display:inline;
+}
+.neighborhood-guides{
+    background-color:#efefef;
+    border-bottom: 1px solid #dbdbdb
+}
+.neighborhood-guides h2{
+    color:#393c3d;
+    font-size:24px;
+}
+.neighborhood-guides p {
+    font-size:15px;
+    margin-bottom: 13px;
+}
